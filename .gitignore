@@ -1,6 +1,5 @@
 # Ignore mac os bullshit files 
 *.DS_Store
-*._*
 
 # Ignore configuration files that may contain sensitive information.
 sites/*/settings*.php
